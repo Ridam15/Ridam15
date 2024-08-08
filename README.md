@@ -1,6 +1,6 @@
 # Hi, I'm Ridam! 👋
 
-I’m a passionate **Web Developer** and a **Final Year CS Student** with a keen interest in **exploring the cosmos** and **innovative problem-solving**. I love building web applications, participating in hackathons, and exploring new technologies. When I’m not coding, you’ll find me traveling or binge-watching my favorite TV shows.
+I’m a passionate **Web Developer** and a **Final Year CS Student** with a keen interest in **data structures and algorithm** and **innovative problem-solving**. I love building web applications, participating in hackathons, and exploring new technologies. When I’m not coding, you’ll find me traveling or binge-watching my favorite TV shows.
 
 ## 🔭 Projects and Achievements
 
