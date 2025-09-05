@@ -1,27 +1,65 @@
-# Hi, I'm Ridam! 👋
+# Hi, I'm Ridam Chhapiya! 👋
 
-I’m a passionate **Web Developer** and a **Final Year ICT Student** with a keen interest in **data structures and algorithm** and **innovative problem-solving**. I love building web applications, participating in hackathons, and exploring new technologies. When I’m not coding, you’ll find me traveling or binge-watching my favorite TV shows.
+**Software Engineer | BTech(ICT) Graduate | Cloud Solutions Enthusiast**
 
-## 🔭 Projects and Achievements
+📍 Pune, India  
+📱 +91 9587828713  
+📧 ridamchhapiya15@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/ridam-chhapiya-026b08249/) | [GitHub](https://github.com/Ridam15)
 
-- 🌟 **[CampusThreads](https://github.com/Ridam15/CampusThreads)**: A Q&A platform for students, built with the MERN stack, designed to facilitate knowledge sharing and community engagement.
-- 🌱 **[AgroPlus](https://github.com/Ridam15/agroplus-site)**: A web application focused on **Crop Disease Detection and Management Using Machine Learning**. This project leverages machine learning models to identify and manage crop diseases, providing farmers with valuable insights to improve agricultural productivity and sustainability.
-- 🎥 **[OTT-Platform-Database](https://github.com/Ridam15/OTT-Platform-Database-)**: A streaming service platform that offers a wide range of movies and TV shows, with personalized content recommendations based on users' viewing history. This project demonstrates my skills in handling large datasets and creating a seamless user experience.
+---
 
-## 🌱 What I'm Currently Learning
+## 🚀 About Me
 
-- **Advanced Web Development**: Enhancing my skills in creating scalable and efficient web applications using the MERN stack.
-- **UI/UX Design**: Creating intuitive and visually appealing user interfaces.
+I'm a Software Engineer and a passionate full-stack developer with a strong foundation in cloud computing, scalable architectures, and innovative problem-solving. I love building impactful software solutions, participating in hackathons, and exploring new technologies. My expertise spans React.js, TypeScript, Node.js, MongoDB, Docker, and Google Cloud Platform.
 
-## 📝 Blogs and Writing
-- **[My Blog](#)**: Sharing insights on web development, tech trends, and my project experiences.
-- **[LinkedIn Articles](#)**: Writing about my journey in tech, tips for beginners, and more.
+I thrive on architecting robust platforms from scratch and optimizing them for performance, security, and user experience. When I’m not coding, you’ll find me traveling or binge-watching my favorite TV shows.
 
-## 📊 GitHub Stats
+---
 
-![Ridam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ridam15&show_icons=true&theme=radical)
-![Ridam's Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Ridam15&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ridam15&layout=compact&theme=radical)
+## 🏢 Experience
+
+**Software Engineer – Searce Inc. (Jan 2025 – Present)**
+- Developed **Meet and Media Sync**: A full-stack solution supporting Google Meet scheduling, screenshot capture (Chrome extension), and secure media management using Google Drive and GCP Buckets.
+- Implemented role-based access control, authentication (OAuth-2.0, Firebase Auth), and automated media synchronization with cron jobs.
+- Deployed cloud-native services using Docker and Google Cloud Run.
+
+**Research Intern – DAICT (May 2024 – Jul 2024)**
+- Built **CampusThreads**: MERN-based platform for student-faculty collaboration with advanced tagging, Q&A, and search functionality.
+- Optimized UI with MUI and TailwindCSS, reducing load times by 10–25%.
+
+---
+
+## 🎓 Education
+
+**B.Tech, Information and Communication Technology**  
+Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar, Gujarat (2025)  
+CPI: 7.74
+
+**Class 12th (CBSE), Shiv Jyoti School, Kota, Rajasthan (2020)**  
+Grade: 94.2
+
+**Class 10th (CBSE), Modern Sr. Secondary School, Dungarpur, Rajasthan (2018)**
+
+---
+
+## 🏅 Certifications
+
+- Google Cloud Digital Leader
+- Google Associate Cloud Engineer
+
+---
+
+## 💡 Skills & Tools
+
+- **Languages:** JavaScript, TypeScript, C++, Python
+- **Web Technologies:** React.js, Express.js, Node.js, HTML5, CSS3, Bootstrap, TailwindCSS, MUI
+- **Databases:** MongoDB, MySQL, PostgreSQL, SQL, NoSQL
+- **Cloud & DevOps:** Google Cloud Platform (GCP), Docker, CI/CD
+- **Authentication:** Firebase Auth, OAuth 2.0
+- **Other:** DSA, problem-solving, data integrity, Git, GitHub/GitLab, VS Code, Figma, team collaboration
+
+---
 
 ## 🌐 Languages and Tools
 
@@ -40,19 +78,44 @@ I’m a passionate **Web Developer** and a **Final Year ICT Student** with a kee
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-## 🚀 Let's Connect
+---
 
-- **GitHub**: [Ridam15](https://github.com/Ridam15)
-- **LinkedIn**: [Ridam Chhapiya](https://www.linkedin.com/in/ridam-chhapiya-026b08249/)
+## 🌟 Featured Projects
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ridam15&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 💡 Fun Fact
-
-I have a wanderlust spirit and love exploring new places. Traveling keeps me inspired and fuels my creativity.
+- **[CampusThreads](https://github.com/Ridam15/CampusThreads):** MERN-based platform for student Q&A, advanced tagging, and collaborative knowledge sharing.
+- **[AutoNexus](https://github.com/Ridam15/AutoNexus):** Intelligent automation framework for workflow orchestration and productivity.
+- **[rag-assistant](https://github.com/Ridam15/rag-assistant):** RAG-powered assistant for knowledge retrieval and automation.
+- **[AgroPlus](https://github.com/Ridam15/agroplus-site):** ML-based crop disease detection and management for farmers.
+- **OTT Platform Database:** Robust DBMS for OTT platforms with advanced SQL queries and data integrity.
 
 ---
 
-*Feel free to explore my repositories and connect with me!*
+## 🏆 Achievements
+
+- 🥇 1st in Manual Robotics Workshop (IEEE)
+- ⭐ 3-star Codechef rating (1700+ points)
+- 🎉 Organized Synapse event with 600+ attendees
+
+---
+
+## 📊 GitHub Stats
+
+![Ridam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ridam15&show_icons=true&theme=radical)
+![Ridam's Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Ridam15&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ridam15&layout=compact&theme=radical)
+
+---
+
+## 🏅 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ridam15&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 💬 Fun Fact
+
+I have a wanderlust spirit and love exploring new places—travel keeps me inspired and fuels my creativity.
+
+---
+
+*Feel free to explore my repositories and connect with me! Let's collaborate on impactful projects and make a difference together.*
