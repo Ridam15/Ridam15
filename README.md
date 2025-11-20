@@ -47,7 +47,7 @@ Grade: 94.2
 
 - Google Cloud Digital Leader
 - Google Associate Cloud Engineer
-
+- Google Generative AI
 ---
 
 ## 💡 Skills & Tools
